@@ -1,0 +1,139 @@
+Welcome to the game A = B, please select the level
+ok, you select the level 1
+Please input all the commands
+Please input the length of testcase
+===============================Testcase 1===============================
+Input Data: aaa
+Player Result: 
+Answer: 
+Result: Accepted
+===============================Testcase 2===============================
+Input Data: aab
+Player Result: b
+Answer: b
+Result: Accepted
+===============================Testcase 3===============================
+Input Data: aac
+Player Result: c
+Answer: c
+Result: Accepted
+===============================Testcase 4===============================
+Input Data: aba
+Player Result: b
+Answer: aba
+Result: Wrong Answer
+===============================Testcase 5===============================
+Input Data: abb
+Player Result: bb
+Answer: abb
+Result: Wrong Answer
+===============================Testcase 6===============================
+Input Data: abc
+Player Result: bc
+Answer: abc
+Result: Wrong Answer
+===============================Testcase 7===============================
+Input Data: aca
+Player Result: c
+Answer: aca
+Result: Wrong Answer
+===============================Testcase 8===============================
+Input Data: acb
+Player Result: cb
+Answer: acb
+Result: Wrong Answer
+===============================Testcase 9===============================
+Input Data: acc
+Player Result: cc
+Answer: acc
+Result: Wrong Answer
+===============================Testcase 10===============================
+Input Data: baa
+Player Result: b
+Answer: b
+Result: Accepted
+===============================Testcase 11===============================
+Input Data: bab
+Player Result: bb
+Answer: bab
+Result: Wrong Answer
+===============================Testcase 12===============================
+Input Data: bac
+Player Result: bc
+Answer: bac
+Result: Wrong Answer
+===============================Testcase 13===============================
+Input Data: bba
+Player Result: bb
+Answer: bba
+Result: Wrong Answer
+===============================Testcase 14===============================
+Input Data: bbb
+Player Result: bbb
+Answer: bbb
+Result: Accepted
+===============================Testcase 15===============================
+Input Data: bbc
+Player Result: bbc
+Answer: bbc
+Result: Accepted
+===============================Testcase 16===============================
+Input Data: bca
+Player Result: bc
+Answer: bca
+Result: Wrong Answer
+===============================Testcase 17===============================
+Input Data: bcb
+Player Result: bcb
+Answer: bcb
+Result: Accepted
+===============================Testcase 18===============================
+Input Data: bcc
+Player Result: bcc
+Answer: bcc
+Result: Accepted
+===============================Testcase 19===============================
+Input Data: caa
+Player Result: c
+Answer: c
+Result: Accepted
+===============================Testcase 20===============================
+Input Data: cab
+Player Result: cb
+Answer: cab
+Result: Wrong Answer
+===============================Testcase 21===============================
+Input Data: cac
+Player Result: cc
+Answer: cac
+Result: Wrong Answer
+===============================Testcase 22===============================
+Input Data: cba
+Player Result: cb
+Answer: cba
+Result: Wrong Answer
+===============================Testcase 23===============================
+Input Data: cbb
+Player Result: cbb
+Answer: cbb
+Result: Accepted
+===============================Testcase 24===============================
+Input Data: cbc
+Player Result: cbc
+Answer: cbc
+Result: Accepted
+===============================Testcase 25===============================
+Input Data: cca
+Player Result: cc
+Answer: cca
+Result: Wrong Answer
+===============================Testcase 26===============================
+Input Data: ccb
+Player Result: ccb
+Answer: ccb
+Result: Accepted
+===============================Testcase 27===============================
+Input Data: ccc
+Player Result: ccc
+Answer: ccc
+Result: Accepted

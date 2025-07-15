@@ -1,0 +1,20 @@
+Please input all the commands
+Pleas input the testcase:
+bccbddabcccbbbaacaaddgncku
+bccbddbcccbbbaacaaddgncku
+bccbddbcccbbbacaaddgncku
+bccbddbcccbbbcaaddgncku
+bccbddbcccbbbcaddgncku
+bccbddbcccbbbcddgncku
+cccbddbcccbbbcddgncku
+ccccddbcccbbbcddgncku
+ccccddccccbbbcddgncku
+ccccddcccccbbcddgncku
+ccccddccccccbcddgncku
+ccccddccccccccddgncku
+ccccdccccccccddgncku
+ccccdccccccccdgncku
+NCKUcdccccccccdgncku
+NCKUcdNCKUcccccdgncku
+NCKUcdNCKUNCKUccdgncku
+Output: NCKUcdNCKUNCKUccdgncku

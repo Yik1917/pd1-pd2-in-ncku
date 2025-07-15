@@ -1,0 +1,6 @@
+adduser ningguo Colten 2000 root
+adduser ningguo Colten1 20 root
+adduser ningguo Colten2 1 root
+adduser ningguo Colten3 1 Colten
+adduser ningguo Colten4 6 root
+print2 ningguo

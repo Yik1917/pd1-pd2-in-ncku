@@ -1,0 +1,1 @@
+# HW7說明連結：https://hackmd.io/@L39Ai4MITOCY2Aioz54q2g/2024PD1_HW7#Deadline-20241218-235959

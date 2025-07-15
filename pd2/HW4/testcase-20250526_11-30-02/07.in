@@ -1,0 +1,13 @@
+adduser ningguo Colten 10 root
+adduser ningguo Seal 10 root
+adduser ningguo Ian 10 Seal
+adduser ningguo Iris 10 Ian
+adduser ningguo Anna 10 Ian
+adduser ningguo Apple 10 Colten
+adduser ningguo Book 10 Colten
+adduser ningguo Tea 10 Book
+lca Colten Seal
+lca Anna Ian
+lca Anna Apple
+lca Tea Apple
+lca Iris Anna

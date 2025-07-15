@@ -1,0 +1,17 @@
+adduser rongguo Colten 100 root
+adduser rongguo Apple 30 Colten
+print1 rongguo 1000
+adduser ningguo Book 3 root 
+adduser ningguo Anna 6 root
+adduser ningguo Peter 5 Anna
+adduser ninggou pop 1000 Colten
+print1 ningguo 5
+print2 rongguo
+print2 ningguo
+adduser rongguo a 3 root
+adduser rongguo b 4 root
+adduser rongguo c 5 root
+adduser rongguo d 10 root
+adduser rongguo e 11 root
+adduser rongguo f 2500 root
+print2 rongguo

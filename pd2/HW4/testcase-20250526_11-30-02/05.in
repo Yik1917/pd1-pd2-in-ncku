@@ -1,0 +1,6 @@
+adduser rongguo Colten 2000 root
+adduser rongguo Colten1 20 root
+adduser rongguo Colten2 1 root
+adduser rongguo Colten3 1 root
+adduser rongguo Colten4 6 root
+print2 rongguo

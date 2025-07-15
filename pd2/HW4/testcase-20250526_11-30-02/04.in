@@ -1,0 +1,6 @@
+adduser ningguo Colten 10 root
+adduser ningguo Colten1 20 root
+adduser ningguo Colten2 30 root
+adduser ningguo Colten3 40 root
+adduser ningguo Colten4 50 root
+print1 ningguo 30

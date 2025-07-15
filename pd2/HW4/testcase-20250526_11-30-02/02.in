@@ -1,0 +1,4 @@
+adduser rongguo Colten 100 root
+adduser rongguo Seal 200 Colten
+adduser ningguo Apple 300 Colten
+adduser ningguo Apple 300 root
